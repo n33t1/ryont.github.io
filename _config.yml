@@ -8,11 +8,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryont.github.io" # the base hostname & protocol for your site
 twitter_username:  # your Twitter username
 github_username: ryont # your Github username
-disqus_username:  # your disqus username
+_username: "amber_han" # your disqus username
 
 google-analytics:  # add it if you have one
 
-skillstree: true # turn on or off the skills tree in about page
+skillstree: off # turn on or off the skills tree in about page
 
 # Build settings
 permalink: none
