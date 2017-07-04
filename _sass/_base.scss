@@ -94,7 +94,7 @@ h6 {
  */
 
 a {
-    color: #25b3bc;
+    color: #f8cf5a;
     text-decoration: none;
     transition: border .5s;
 }
@@ -107,12 +107,12 @@ a:hover {
 .post-content h2:before {
     content: "¶ ";
     margin-right: 20px;
-    color: #25bcba;
+    color: #F7C331;
 }
 
 .link {
     padding: 2px;
-    color: #25b3bc;
+    color: #f8cf5a;
     text-decoration: none;
     transition: background-color .7s;
 }
@@ -121,35 +121,6 @@ a:hover {
     background-color: #e6e6e6;
     border: none;
 }
-
-
-/**
- * Share
- */
-
-.share {
-    margin-bottom: 30px;
-    border-top: 1px solid #eee;
-    color: #777;
-    font-size: 17px;
-}
-
-.share a {
-    border-bottom: none;
-}
-
-.twitter-share {
-    color: #1B95E0;
-}
-
-.facebook-share {
-    color: #3A5795;
-}
-
-.googleplus-share {
-    color: #E53935;
-}
-
 
 /**
  * Blockquotes
@@ -170,7 +141,7 @@ hr {
     height: 1px;
     margin: 40px auto;
     background: #dcdcdc;
-    width: 100%;
+    width: 30%;
 }
 
 
